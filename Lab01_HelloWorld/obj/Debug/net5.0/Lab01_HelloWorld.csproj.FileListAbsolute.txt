@@ -1,0 +1,16 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\bin\Debug\net5.0\Lab01_HelloWorld.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\bin\Debug\net5.0\Lab01_HelloWorld.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\bin\Debug\net5.0\Lab01_HelloWorld.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\bin\Debug\net5.0\Lab01_HelloWorld.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\bin\Debug\net5.0\Lab01_HelloWorld.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\bin\Debug\net5.0\ref\Lab01_HelloWorld.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\bin\Debug\net5.0\Lab01_HelloWorld.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\obj\Debug\net5.0\Lab01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\obj\Debug\net5.0\Lab01_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\obj\Debug\net5.0\Lab01_HelloWorld.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\obj\Debug\net5.0\Lab01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\obj\Debug\net5.0\Lab01_HelloWorld.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\obj\Debug\net5.0\ref\Lab01_HelloWorld.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\obj\Debug\net5.0\Lab01_HelloWorld.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\obj\Debug\net5.0\Lab01_HelloWorld.genruntimeconfig.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab01_HelloWorld\obj\Debug\net5.0\Lab01_HelloWorld.csprojAssemblyReference.cache

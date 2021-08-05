@@ -1,0 +1,16 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\bin\Debug\net5.0\Lab03_StudentInfo.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\bin\Debug\net5.0\Lab03_StudentInfo.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\bin\Debug\net5.0\Lab03_StudentInfo.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\bin\Debug\net5.0\Lab03_StudentInfo.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\bin\Debug\net5.0\Lab03_StudentInfo.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\bin\Debug\net5.0\ref\Lab03_StudentInfo.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\bin\Debug\net5.0\Lab03_StudentInfo.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\obj\Debug\net5.0\Lab03_StudentInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\obj\Debug\net5.0\Lab03_StudentInfo.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\obj\Debug\net5.0\Lab03_StudentInfo.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\obj\Debug\net5.0\Lab03_StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\obj\Debug\net5.0\Lab03_StudentInfo.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\obj\Debug\net5.0\ref\Lab03_StudentInfo.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\obj\Debug\net5.0\Lab03_StudentInfo.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\obj\Debug\net5.0\Lab03_StudentInfo.genruntimeconfig.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab03_StudentInfo\obj\Debug\net5.0\Lab03_StudentInfo.csprojAssemblyReference.cache

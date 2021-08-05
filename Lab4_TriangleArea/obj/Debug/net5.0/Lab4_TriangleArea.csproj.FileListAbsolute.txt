@@ -1,0 +1,16 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\obj\Debug\net5.0\Lab4_TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\obj\Debug\net5.0\Lab4_TriangleArea.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\obj\Debug\net5.0\Lab4_TriangleArea.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\obj\Debug\net5.0\Lab4_TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\bin\Debug\net5.0\Lab4_TriangleArea.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\bin\Debug\net5.0\Lab4_TriangleArea.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\bin\Debug\net5.0\Lab4_TriangleArea.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\bin\Debug\net5.0\Lab4_TriangleArea.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\bin\Debug\net5.0\Lab4_TriangleArea.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\bin\Debug\net5.0\ref\Lab4_TriangleArea.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\bin\Debug\net5.0\Lab4_TriangleArea.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\obj\Debug\net5.0\Lab4_TriangleArea.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\obj\Debug\net5.0\ref\Lab4_TriangleArea.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\obj\Debug\net5.0\Lab4_TriangleArea.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\obj\Debug\net5.0\Lab4_TriangleArea.genruntimeconfig.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab4_TriangleArea\obj\Debug\net5.0\Lab4_TriangleArea.csprojAssemblyReference.cache

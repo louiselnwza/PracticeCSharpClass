@@ -1,0 +1,16 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\bin\Debug\net5.0\Lab02_HelloMyName.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\bin\Debug\net5.0\Lab02_HelloMyName.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\bin\Debug\net5.0\Lab02_HelloMyName.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\bin\Debug\net5.0\Lab02_HelloMyName.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\bin\Debug\net5.0\Lab02_HelloMyName.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\bin\Debug\net5.0\ref\Lab02_HelloMyName.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\bin\Debug\net5.0\Lab02_HelloMyName.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\obj\Debug\net5.0\Lab02_HelloMyName.csprojAssemblyReference.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\obj\Debug\net5.0\Lab02_HelloMyName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\obj\Debug\net5.0\Lab02_HelloMyName.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\obj\Debug\net5.0\Lab02_HelloMyName.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\obj\Debug\net5.0\Lab02_HelloMyName.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\obj\Debug\net5.0\Lab02_HelloMyName.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\obj\Debug\net5.0\ref\Lab02_HelloMyName.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\obj\Debug\net5.0\Lab02_HelloMyName.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab02_HelloMyName\obj\Debug\net5.0\Lab02_HelloMyName.genruntimeconfig.cache
