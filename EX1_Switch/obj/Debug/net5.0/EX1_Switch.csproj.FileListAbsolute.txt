@@ -1,0 +1,15 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\bin\Debug\net5.0\EX1_Switch.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\bin\Debug\net5.0\EX1_Switch.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\bin\Debug\net5.0\EX1_Switch.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\bin\Debug\net5.0\EX1_Switch.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\bin\Debug\net5.0\EX1_Switch.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\bin\Debug\net5.0\ref\EX1_Switch.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\bin\Debug\net5.0\EX1_Switch.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\obj\Debug\net5.0\EX1_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\obj\Debug\net5.0\EX1_Switch.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\obj\Debug\net5.0\EX1_Switch.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\obj\Debug\net5.0\EX1_Switch.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\obj\Debug\net5.0\EX1_Switch.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\obj\Debug\net5.0\ref\EX1_Switch.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\obj\Debug\net5.0\EX1_Switch.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\obj\Debug\net5.0\EX1_Switch.genruntimeconfig.cache
