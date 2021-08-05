@@ -6,7 +6,7 @@ namespace Lab05_Cylindrical
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!"); //aa
         }
     }
 }
