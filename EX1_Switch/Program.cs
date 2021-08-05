@@ -7,8 +7,10 @@ namespace EX1_Switch
         static void Main(string[] args)
         {
             int menu = 0;
+            string name = "";
 
             menu = Convert.ToInt32(Console.ReadLine());
+            
 
             switch (menu)
             {
@@ -27,6 +29,24 @@ namespace EX1_Switch
                 default:
                     Console.WriteLine("Please Enter Menu Code");
                     break;
+            }
+
+            name = Console.ReadLine();
+
+            switch (name)
+            {
+                case "A":
+                    Console.WriteLine("Hello A !!!");
+                    break;
+                case "B":
+                    Console.WriteLine("Hello B !!!");
+                    break;
+                case "C":
+                    Console.WriteLine("Hello C !!!");
+                    break;
+                //default:
+                //    Console.WriteLine("Hello Someone");
+                //    break;
             }
         }
     }
