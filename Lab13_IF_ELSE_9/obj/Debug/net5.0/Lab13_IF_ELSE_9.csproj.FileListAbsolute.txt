@@ -1,0 +1,15 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\bin\Debug\net5.0\Lab13_IF_ELSE_9.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\bin\Debug\net5.0\Lab13_IF_ELSE_9.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\bin\Debug\net5.0\Lab13_IF_ELSE_9.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\bin\Debug\net5.0\Lab13_IF_ELSE_9.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\bin\Debug\net5.0\Lab13_IF_ELSE_9.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\bin\Debug\net5.0\ref\Lab13_IF_ELSE_9.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\bin\Debug\net5.0\Lab13_IF_ELSE_9.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\obj\Debug\net5.0\Lab13_IF_ELSE_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\obj\Debug\net5.0\Lab13_IF_ELSE_9.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\obj\Debug\net5.0\Lab13_IF_ELSE_9.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\obj\Debug\net5.0\Lab13_IF_ELSE_9.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\obj\Debug\net5.0\Lab13_IF_ELSE_9.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\obj\Debug\net5.0\ref\Lab13_IF_ELSE_9.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\obj\Debug\net5.0\Lab13_IF_ELSE_9.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab13_IF_ELSE_9\obj\Debug\net5.0\Lab13_IF_ELSE_9.genruntimeconfig.cache
