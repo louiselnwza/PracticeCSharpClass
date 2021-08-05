@@ -13,3 +13,4 @@ C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab09_IF_ELSE_01\obj\Debug\net5.0\
 C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab09_IF_ELSE_01\obj\Debug\net5.0\ref\Lab09_IF_ELSE_01.dll
 C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab09_IF_ELSE_01\obj\Debug\net5.0\Lab09_IF_ELSE_01.pdb
 C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab09_IF_ELSE_01\obj\Debug\net5.0\Lab09_IF_ELSE_01.genruntimeconfig.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab09_IF_ELSE_01\obj\Debug\net5.0\Lab09_IF_ELSE_01.csprojAssemblyReference.cache
