@@ -1,0 +1,15 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\obj\Debug\net5.0\Lab06_DateTimeNow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\obj\Debug\net5.0\Lab06_DateTimeNow.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\obj\Debug\net5.0\Lab06_DateTimeNow.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\obj\Debug\net5.0\Lab06_DateTimeNow.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\bin\Debug\net5.0\Lab06_DateTimeNow.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\bin\Debug\net5.0\Lab06_DateTimeNow.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\bin\Debug\net5.0\Lab06_DateTimeNow.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\bin\Debug\net5.0\Lab06_DateTimeNow.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\bin\Debug\net5.0\Lab06_DateTimeNow.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\bin\Debug\net5.0\ref\Lab06_DateTimeNow.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\bin\Debug\net5.0\Lab06_DateTimeNow.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\obj\Debug\net5.0\Lab06_DateTimeNow.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\obj\Debug\net5.0\ref\Lab06_DateTimeNow.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\obj\Debug\net5.0\Lab06_DateTimeNow.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\obj\Debug\net5.0\Lab06_DateTimeNow.genruntimeconfig.cache
