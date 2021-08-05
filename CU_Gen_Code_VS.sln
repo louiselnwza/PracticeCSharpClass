@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab06_DateTimeNow", "Lab06_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07_CalSumGrade", "Lab07_CalSumGrade\Lab07_CalSumGrade.csproj", "{ACF214FE-14DE-458B-9495-B631091D63F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab08_Mean", "Lab08_Mean\Lab08_Mean.csproj", "{F5CCB1ED-B6A7-4580-8FE9-BD2811BBB40C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{ACF214FE-14DE-458B-9495-B631091D63F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACF214FE-14DE-458B-9495-B631091D63F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACF214FE-14DE-458B-9495-B631091D63F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CCB1ED-B6A7-4580-8FE9-BD2811BBB40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CCB1ED-B6A7-4580-8FE9-BD2811BBB40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CCB1ED-B6A7-4580-8FE9-BD2811BBB40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CCB1ED-B6A7-4580-8FE9-BD2811BBB40C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

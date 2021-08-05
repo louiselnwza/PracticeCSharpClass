@@ -1,0 +1,15 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\bin\Debug\net5.0\Lab08_Mean.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\bin\Debug\net5.0\Lab08_Mean.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\bin\Debug\net5.0\Lab08_Mean.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\bin\Debug\net5.0\Lab08_Mean.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\bin\Debug\net5.0\Lab08_Mean.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\bin\Debug\net5.0\ref\Lab08_Mean.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\bin\Debug\net5.0\Lab08_Mean.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\obj\Debug\net5.0\Lab08_Mean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\obj\Debug\net5.0\Lab08_Mean.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\obj\Debug\net5.0\Lab08_Mean.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\obj\Debug\net5.0\Lab08_Mean.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\obj\Debug\net5.0\Lab08_Mean.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\obj\Debug\net5.0\ref\Lab08_Mean.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\obj\Debug\net5.0\Lab08_Mean.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab08_Mean\obj\Debug\net5.0\Lab08_Mean.genruntimeconfig.cache
