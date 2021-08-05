@@ -1,0 +1,16 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\bin\Debug\net5.0\Lab05_Cylindrical.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\bin\Debug\net5.0\Lab05_Cylindrical.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\bin\Debug\net5.0\Lab05_Cylindrical.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\bin\Debug\net5.0\Lab05_Cylindrical.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\bin\Debug\net5.0\Lab05_Cylindrical.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\bin\Debug\net5.0\ref\Lab05_Cylindrical.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\bin\Debug\net5.0\Lab05_Cylindrical.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\obj\Debug\net5.0\Lab05_Cylindrical.csprojAssemblyReference.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\obj\Debug\net5.0\Lab05_Cylindrical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\obj\Debug\net5.0\Lab05_Cylindrical.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\obj\Debug\net5.0\Lab05_Cylindrical.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\obj\Debug\net5.0\Lab05_Cylindrical.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\obj\Debug\net5.0\Lab05_Cylindrical.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\obj\Debug\net5.0\ref\Lab05_Cylindrical.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\obj\Debug\net5.0\Lab05_Cylindrical.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab05_Cylindrical\obj\Debug\net5.0\Lab05_Cylindrical.genruntimeconfig.cache
