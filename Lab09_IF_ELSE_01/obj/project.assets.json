@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pratya_s\\source\\repos\\CU_Gen_Code_VS\\Lab4_TriangleArea\\Lab04_TriangleArea.csproj",
-      "projectName": "Lab04_TriangleArea",
-      "projectPath": "C:\\Users\\pratya_s\\source\\repos\\CU_Gen_Code_VS\\Lab4_TriangleArea\\Lab04_TriangleArea.csproj",
+      "projectUniqueName": "C:\\Users\\pratya_s\\source\\repos\\CU_Gen_Code_VS\\Lab09_IF_ELSE_01\\Lab09_IF_ELSE_01.csproj",
+      "projectName": "Lab09_IF_ELSE_01",
+      "projectPath": "C:\\Users\\pratya_s\\source\\repos\\CU_Gen_Code_VS\\Lab09_IF_ELSE_01\\Lab09_IF_ELSE_01.csproj",
       "packagesPath": "C:\\Users\\pratya_s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pratya_s\\source\\repos\\CU_Gen_Code_VS\\Lab4_TriangleArea\\obj\\",
+      "outputPath": "C:\\Users\\pratya_s\\source\\repos\\CU_Gen_Code_VS\\Lab09_IF_ELSE_01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

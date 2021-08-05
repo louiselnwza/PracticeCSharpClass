@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lab4_TriangleArea
+namespace Lab04_TriangleArea
 {
     class Program
     {
