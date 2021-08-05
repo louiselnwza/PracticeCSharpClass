@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab16_IF_ELSE_14/1.0.0": {
+        "runtime": {
+          "Lab16_IF_ELSE_14.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab16_IF_ELSE_14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

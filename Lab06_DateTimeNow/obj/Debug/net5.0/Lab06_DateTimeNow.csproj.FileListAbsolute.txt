@@ -13,3 +13,4 @@ C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\obj\Debug\net5.0
 C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\obj\Debug\net5.0\ref\Lab06_DateTimeNow.dll
 C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\obj\Debug\net5.0\Lab06_DateTimeNow.pdb
 C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\obj\Debug\net5.0\Lab06_DateTimeNow.genruntimeconfig.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab06_DateTimeNow\obj\Debug\net5.0\Lab06_DateTimeNow.csprojAssemblyReference.cache

@@ -13,3 +13,4 @@ C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\obj\Debug\net5.0\EX1_Sw
 C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\obj\Debug\net5.0\ref\EX1_Switch.dll
 C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\obj\Debug\net5.0\EX1_Switch.pdb
 C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\obj\Debug\net5.0\EX1_Switch.genruntimeconfig.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX1_Switch\obj\Debug\net5.0\EX1_Switch.csprojAssemblyReference.cache

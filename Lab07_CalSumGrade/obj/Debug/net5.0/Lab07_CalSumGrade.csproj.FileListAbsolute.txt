@@ -13,3 +13,4 @@ C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab07_CalSumGrade\obj\Debug\net5.0
 C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab07_CalSumGrade\obj\Debug\net5.0\ref\Lab07_CalSumGrade.dll
 C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab07_CalSumGrade\obj\Debug\net5.0\Lab07_CalSumGrade.pdb
 C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab07_CalSumGrade\obj\Debug\net5.0\Lab07_CalSumGrade.genruntimeconfig.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab07_CalSumGrade\obj\Debug\net5.0\Lab07_CalSumGrade.csprojAssemblyReference.cache
