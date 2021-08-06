@@ -1,0 +1,15 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\bin\Debug\net5.0\Lab23_Loop_5.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\bin\Debug\net5.0\Lab23_Loop_5.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\bin\Debug\net5.0\Lab23_Loop_5.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\bin\Debug\net5.0\Lab23_Loop_5.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\bin\Debug\net5.0\Lab23_Loop_5.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\bin\Debug\net5.0\ref\Lab23_Loop_5.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\bin\Debug\net5.0\Lab23_Loop_5.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\obj\Debug\net5.0\Lab23_Loop_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\obj\Debug\net5.0\Lab23_Loop_5.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\obj\Debug\net5.0\Lab23_Loop_5.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\obj\Debug\net5.0\Lab23_Loop_5.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\obj\Debug\net5.0\Lab23_Loop_5.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\obj\Debug\net5.0\ref\Lab23_Loop_5.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\obj\Debug\net5.0\Lab23_Loop_5.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab23_Loop_5\obj\Debug\net5.0\Lab23_Loop_5.genruntimeconfig.cache
