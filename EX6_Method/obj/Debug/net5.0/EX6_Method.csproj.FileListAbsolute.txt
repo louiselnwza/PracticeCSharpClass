@@ -1,0 +1,15 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\obj\Debug\net5.0\EX6_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\obj\Debug\net5.0\EX6_Method.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\obj\Debug\net5.0\EX6_Method.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\obj\Debug\net5.0\EX6_Method.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\bin\Debug\net5.0\EX6_Method.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\bin\Debug\net5.0\EX6_Method.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\bin\Debug\net5.0\EX6_Method.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\bin\Debug\net5.0\EX6_Method.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\bin\Debug\net5.0\EX6_Method.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\bin\Debug\net5.0\ref\EX6_Method.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\bin\Debug\net5.0\EX6_Method.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\obj\Debug\net5.0\EX6_Method.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\obj\Debug\net5.0\ref\EX6_Method.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\obj\Debug\net5.0\EX6_Method.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX6_Method\obj\Debug\net5.0\EX6_Method.genruntimeconfig.cache
