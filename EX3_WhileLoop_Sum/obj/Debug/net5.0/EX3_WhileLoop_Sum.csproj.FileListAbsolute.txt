@@ -1,0 +1,15 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\bin\Debug\net5.0\EX3_WhileLoop_Sum.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\bin\Debug\net5.0\EX3_WhileLoop_Sum.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\bin\Debug\net5.0\EX3_WhileLoop_Sum.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\bin\Debug\net5.0\EX3_WhileLoop_Sum.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\bin\Debug\net5.0\EX3_WhileLoop_Sum.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\bin\Debug\net5.0\ref\EX3_WhileLoop_Sum.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\bin\Debug\net5.0\EX3_WhileLoop_Sum.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\obj\Debug\net5.0\EX3_WhileLoop_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\obj\Debug\net5.0\EX3_WhileLoop_Sum.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\obj\Debug\net5.0\EX3_WhileLoop_Sum.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\obj\Debug\net5.0\EX3_WhileLoop_Sum.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\obj\Debug\net5.0\EX3_WhileLoop_Sum.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\obj\Debug\net5.0\ref\EX3_WhileLoop_Sum.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\obj\Debug\net5.0\EX3_WhileLoop_Sum.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX3_WhileLoop_Sum\obj\Debug\net5.0\EX3_WhileLoop_Sum.genruntimeconfig.cache

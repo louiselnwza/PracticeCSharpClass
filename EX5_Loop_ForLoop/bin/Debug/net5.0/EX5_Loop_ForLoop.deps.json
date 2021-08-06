@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EX5_Loop_ForLoop/1.0.0": {
+        "runtime": {
+          "EX5_Loop_ForLoop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX5_Loop_ForLoop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

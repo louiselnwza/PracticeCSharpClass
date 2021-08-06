@@ -1,0 +1,16 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\bin\Debug\net5.0\EX5_Loop_ForLoop.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\bin\Debug\net5.0\EX5_Loop_ForLoop.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\bin\Debug\net5.0\EX5_Loop_ForLoop.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\bin\Debug\net5.0\EX5_Loop_ForLoop.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\bin\Debug\net5.0\EX5_Loop_ForLoop.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\bin\Debug\net5.0\ref\EX5_Loop_ForLoop.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\bin\Debug\net5.0\EX5_Loop_ForLoop.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\obj\Debug\net5.0\EX5_Loop_ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\obj\Debug\net5.0\EX5_Loop_ForLoop.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\obj\Debug\net5.0\EX5_Loop_ForLoop.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\obj\Debug\net5.0\EX5_Loop_ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\obj\Debug\net5.0\EX5_Loop_ForLoop.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\obj\Debug\net5.0\ref\EX5_Loop_ForLoop.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\obj\Debug\net5.0\EX5_Loop_ForLoop.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\obj\Debug\net5.0\EX5_Loop_ForLoop.genruntimeconfig.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX5_Loop_ForLoop\obj\Debug\net5.0\EX5_Loop_ForLoop.csprojAssemblyReference.cache

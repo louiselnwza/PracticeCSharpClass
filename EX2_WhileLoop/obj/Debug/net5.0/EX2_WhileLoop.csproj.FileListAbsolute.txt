@@ -1,0 +1,15 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\bin\Debug\net5.0\EX2_WhileLoop.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\bin\Debug\net5.0\EX2_WhileLoop.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\bin\Debug\net5.0\EX2_WhileLoop.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\bin\Debug\net5.0\EX2_WhileLoop.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\bin\Debug\net5.0\EX2_WhileLoop.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\bin\Debug\net5.0\ref\EX2_WhileLoop.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\bin\Debug\net5.0\EX2_WhileLoop.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\obj\Debug\net5.0\EX2_WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\obj\Debug\net5.0\EX2_WhileLoop.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\obj\Debug\net5.0\EX2_WhileLoop.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\obj\Debug\net5.0\EX2_WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\obj\Debug\net5.0\EX2_WhileLoop.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\obj\Debug\net5.0\ref\EX2_WhileLoop.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\obj\Debug\net5.0\EX2_WhileLoop.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX2_WhileLoop\obj\Debug\net5.0\EX2_WhileLoop.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\bin\Debug\net5.0\EX4_WhileLoop_Countinue.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\bin\Debug\net5.0\EX4_WhileLoop_Countinue.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\bin\Debug\net5.0\EX4_WhileLoop_Countinue.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\bin\Debug\net5.0\EX4_WhileLoop_Countinue.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\bin\Debug\net5.0\EX4_WhileLoop_Countinue.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\bin\Debug\net5.0\ref\EX4_WhileLoop_Countinue.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\bin\Debug\net5.0\EX4_WhileLoop_Countinue.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\obj\Debug\net5.0\EX4_WhileLoop_Countinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\obj\Debug\net5.0\EX4_WhileLoop_Countinue.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\obj\Debug\net5.0\EX4_WhileLoop_Countinue.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\obj\Debug\net5.0\EX4_WhileLoop_Countinue.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\obj\Debug\net5.0\EX4_WhileLoop_Countinue.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\obj\Debug\net5.0\ref\EX4_WhileLoop_Countinue.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\obj\Debug\net5.0\EX4_WhileLoop_Countinue.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\EX4_WhileLoop_Countinue\obj\Debug\net5.0\EX4_WhileLoop_Countinue.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EX4_WhileLoop_Countinue/1.0.0": {
+        "runtime": {
+          "EX4_WhileLoop_Countinue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX4_WhileLoop_Countinue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
