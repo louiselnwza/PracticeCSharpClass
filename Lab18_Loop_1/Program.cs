@@ -21,6 +21,7 @@ namespace Lab18_Loop_1
             {
                 // 2 : Input 
                 sum = sum + number;
+                Console.Write("Please Input : ");
                 number = Convert.ToInt32(Console.ReadLine());
 
                 if (number < 0)
