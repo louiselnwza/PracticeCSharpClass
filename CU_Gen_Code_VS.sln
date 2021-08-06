@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX4_WhileLoop_Countinue", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX5_Loop_ForLoop", "EX5_Loop_ForLoop\EX5_Loop_ForLoop.csproj", "{591C84ED-9081-44D2-9A7D-BB8E2B286382}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab18_Loop_1", "Lab18_Loop_1\Lab18_Loop_1.csproj", "{2DDE7404-FE3A-4CC9-8659-DBE5F1590AD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{591C84ED-9081-44D2-9A7D-BB8E2B286382}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{591C84ED-9081-44D2-9A7D-BB8E2B286382}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{591C84ED-9081-44D2-9A7D-BB8E2B286382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDE7404-FE3A-4CC9-8659-DBE5F1590AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDE7404-FE3A-4CC9-8659-DBE5F1590AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDE7404-FE3A-4CC9-8659-DBE5F1590AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDE7404-FE3A-4CC9-8659-DBE5F1590AD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
