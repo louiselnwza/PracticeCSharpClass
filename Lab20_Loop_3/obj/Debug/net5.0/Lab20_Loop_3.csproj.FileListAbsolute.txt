@@ -1,0 +1,15 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\bin\Debug\net5.0\Lab20_Loop_3.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\bin\Debug\net5.0\Lab20_Loop_3.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\bin\Debug\net5.0\Lab20_Loop_3.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\bin\Debug\net5.0\Lab20_Loop_3.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\bin\Debug\net5.0\Lab20_Loop_3.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\bin\Debug\net5.0\ref\Lab20_Loop_3.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\bin\Debug\net5.0\Lab20_Loop_3.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\obj\Debug\net5.0\Lab20_Loop_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\obj\Debug\net5.0\Lab20_Loop_3.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\obj\Debug\net5.0\Lab20_Loop_3.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\obj\Debug\net5.0\Lab20_Loop_3.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\obj\Debug\net5.0\Lab20_Loop_3.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\obj\Debug\net5.0\ref\Lab20_Loop_3.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\obj\Debug\net5.0\Lab20_Loop_3.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab20_Loop_3\obj\Debug\net5.0\Lab20_Loop_3.genruntimeconfig.cache
