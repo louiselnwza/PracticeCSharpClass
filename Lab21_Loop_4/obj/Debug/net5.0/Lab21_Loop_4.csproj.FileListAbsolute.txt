@@ -1,0 +1,15 @@
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\bin\Debug\net5.0\Lab21_Loop_4.exe
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\bin\Debug\net5.0\Lab21_Loop_4.deps.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\bin\Debug\net5.0\Lab21_Loop_4.runtimeconfig.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\bin\Debug\net5.0\Lab21_Loop_4.runtimeconfig.dev.json
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\bin\Debug\net5.0\Lab21_Loop_4.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\bin\Debug\net5.0\ref\Lab21_Loop_4.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\bin\Debug\net5.0\Lab21_Loop_4.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\obj\Debug\net5.0\Lab21_Loop_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\obj\Debug\net5.0\Lab21_Loop_4.AssemblyInfoInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\obj\Debug\net5.0\Lab21_Loop_4.AssemblyInfo.cs
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\obj\Debug\net5.0\Lab21_Loop_4.csproj.CoreCompileInputs.cache
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\obj\Debug\net5.0\Lab21_Loop_4.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\obj\Debug\net5.0\ref\Lab21_Loop_4.dll
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\obj\Debug\net5.0\Lab21_Loop_4.pdb
+C:\Users\pratya_s\source\repos\CU_Gen_Code_VS\Lab21_Loop_4\obj\Debug\net5.0\Lab21_Loop_4.genruntimeconfig.cache
